@@ -1,2 +1,3 @@
 # AmateurOneTimePad
-An amateurs attempt at creating a one time pad.
+An amateurs attempt a program to encrypt a file using a one time pad.
+Don't actually use this, since the random values aren't truly random so it is not safe.
